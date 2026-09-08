@@ -1,0 +1,9 @@
+NEUROFLUX — MATEMÁTICA
+Roteiro de estudo: funções e geometria
+
+1. Revise o conceito de função: domínio, contradomínio e imagem.
+2. Identifique função afim e função quadrática em exemplos simples.
+3. Desenhe os gráficos e observe crescimento, decrescimento e raízes.
+4. Em geometria plana, revise perímetro, área e relações no triângulo retângulo.
+
+Sugestão: resolva poucos exercícios por vez e registre as dúvidas para revisar depois.
